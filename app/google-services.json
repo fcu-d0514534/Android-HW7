@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "691710060867",
+    "firebase_url": "https://adoptionpet-e4313.firebaseio.com",
+    "project_id": "adoptionpet-e4313",
+    "storage_bucket": "adoptionpet-e4313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691710060867:android:9b537403cc3f9ff9",
+        "android_client_info": {
+          "package_name": "com.example.user.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691710060867-rfdpai5jllf9unp7rd2qt10m7elgep36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.myapplication",
+            "certificate_hash": "e2f47a6153b56d60eec66e8a979a04bf6d23e156"
+          }
+        },
+        {
+          "client_id": "691710060867-q6iqmt8f10ssjl02gelv2uc0onmf3q0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBsJv4yajSGyvOtu1zndqrCPkspLCCc-o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691710060867-q6iqmt8f10ssjl02gelv2uc0onmf3q0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
